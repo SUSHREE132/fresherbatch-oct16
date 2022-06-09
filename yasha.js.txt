@@ -9,7 +9,7 @@
 			let result=a+b;
 			return result;
 		}
-		let output=addNumber(10,20);
+		let output=addNumber(10,30);
 		console.log(output);
 	</script>
 </head>
